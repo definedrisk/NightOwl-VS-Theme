@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="NightOwl" GUID="{a57b0794-df41-43e7-a560-39b9e0fee541}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="NightOwl (DefinedRisk)" GUID="{148a5279-da12-41d3-9f9f-24d86acdad89}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -2488,7 +2488,7 @@
         <Background Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="ComboBoxBackground">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF022A4B" />
       </Color>
       <Color Name="ComboBoxBorder">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -2506,7 +2506,7 @@
         <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="ComboBoxBackgroundDisabled">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF022A4B" />
       </Color>
       <Color Name="ComboBoxBorderDisabled">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -3496,13 +3496,13 @@
         <Background Type="CT_RAW" Source="FFF0E9D2" />
       </Color>
       <Color Name="ComboBoxBackground">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF022A4B" />
       </Color>
       <Color Name="ComboBoxBorder">
         <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="ComboBoxDisabledBackground">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF022A4B" />
       </Color>
       <Color Name="ComboBoxDisabledBorder">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -3544,7 +3544,7 @@
         <Background Type="CT_RAW" Source="FF011325" />
       </Color>
       <Color Name="ComboBoxPopupBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF033863" />
       </Color>
       <Color Name="CommandBarCheckBox">
         <Background Type="CT_RAW" Source="FF5D96AC" />
@@ -3556,7 +3556,7 @@
         <Background Type="CT_RAW" Source="FF011325" />
       </Color>
       <Color Name="CommandBarMenuBorder">
-        <Background Type="CT_RAW" Source="FF011325" />
+        <Background Type="CT_RAW" Source="FF033863" />
       </Color>
       <Color Name="CommandBarMenuIconBackground">
         <Background Type="CT_RAW" Source="FF011325" />
@@ -3706,16 +3706,16 @@
         <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="DropDownBorder">
-        <Background Type="CT_RAW" Source="FF000F24" />
+        <Background Type="CT_RAW" Source="FF00204D" />
       </Color>
       <Color Name="DropDownDisabledBackground">
         <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="DropDownDisabledBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF033863" />
       </Color>
       <Color Name="DropDownDisabledGlyph">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF033863" />
       </Color>
       <Color Name="DropDownGlyph">
         <Background Type="CT_RAW" Source="FF5D96AC" />
@@ -3751,7 +3751,7 @@
         <Background Type="CT_RAW" Source="FF011325" />
       </Color>
       <Color Name="DropDownPopupBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF033863" />
       </Color>
       <Color Name="DropShadowBackground">
         <Background Type="CT_RAW" Source="72000C22" />
@@ -4244,13 +4244,13 @@
         <Background Type="CT_RAW" Source="FF0B4D6B" />
       </Color>
       <Color Name="CommandBarGradientBegin">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF011C32" />
       </Color>
       <Color Name="CommandBarGradientEnd">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF011C32" />
       </Color>
       <Color Name="CommandBarGradientMiddle">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF011C32" />
       </Color>
       <Color Name="CommandBarHover">
         <Background Type="CT_RAW" Source="FF011627" />
