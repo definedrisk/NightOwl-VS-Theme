@@ -2322,7 +2322,7 @@
         <Foreground Type="CT_RAW" Source="99000000" />
       </Color>
       <Color Name="Guideline">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_INVALID" Source="FFCC0000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="md_header">
@@ -8600,7 +8600,7 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="WindowBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF022A4B" />
       </Color>
       <Color Name="HeaderText">
         <Background Type="CT_RAW" Source="FFE0F6FF" />
@@ -8690,7 +8690,7 @@
         <Background Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="PromotionBoxBackground">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF022A4B" />
       </Color>
       <Color Name="PromotionBoxBorder">
         <Background Type="CT_RAW" Source="FFE0F6FF" />
@@ -8705,7 +8705,7 @@
         <Background Type="CT_RAW" Source="FFFF0000" />
       </Color>
       <Color Name="ActionButtonBackground">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF022A4B" />
       </Color>
       <Color Name="ActionButtonStroke">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -8746,7 +8746,7 @@
         <Foreground Type="CT_RAW" Source="FF4F4F4F" />
       </Color>
       <Color Name="StartWindowDescriptionHover">
-        <Foreground Type="CT_RAW" Source="FF4F4F4F" />
+        <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="TemplateNewTag">
         <Background Type="CT_RAW" Source="FF007ACC" />
