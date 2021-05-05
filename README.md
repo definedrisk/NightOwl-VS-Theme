@@ -1,4 +1,4 @@
-# Night Owl for Visual Studio 2019
+# Night Owl for Visual Studio 2019 (24hr Owl)
 Visual Studio 2019 port of the awesome [Night Owl VS Code Theme](https://github.com/sdras/night-owl-vscode-theme) by Kai-Oswald with modification to give contrast and seperation between some common user menus, controls and dialogues as per [optional suggestions for VS Code Theme](https://github.com/sdras/night-owl-vscode-theme#separate-the-editor-from-the-sidebar).
 
 ![Theme preview](/preview.png)
