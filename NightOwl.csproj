@@ -50,6 +50,10 @@
     <Content Include="demo\js.js" />
     <Content Include="demo\python.py" />
     <Content Include="demo\vb.vb" />
+    <Content Include="owl.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="preview.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
