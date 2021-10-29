@@ -1375,7 +1375,7 @@
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF7FDBCA" />
+        <Foreground Type="CT_RAW" Source="FF80DBAD" />
       </Color>
       <Color Name="HTML Entity">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1663,11 +1663,11 @@
       </Color>
       <Color Name="RazorTagHelperAttribute">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF64A7CE" />
       </Color>
       <Color Name="RazorTagHelperElement">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF9EC8E0" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
         <Background Type="CT_INVALID" Source="00000000" />
