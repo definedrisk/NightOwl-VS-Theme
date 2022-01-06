@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="NightOwl22.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0.0" Language="en-US" Publisher="Defined-Risk" />
+        <DisplayName>22hr Owl - The 24hr Owl Theme for VS 2022</DisplayName>
+        <Description xml:space="preserve">Visual Studio 2022 port of Night Owl VS Code Theme. Originally modified from Kai Oswald 0.2.1 to increase contrast on tool bar and controls, such that it can be used day and night along with its VS code counterpart. Now updated from 24hr Owl Theme for VS 2019.</Description>
+        <MoreInfo>https://github.com/definedrisk/NightOwl-VS-Theme</MoreInfo>
+        <Icon>owl.png</Icon>
+        <PreviewImage>preview.png</PreviewImage>
+        <Tags>night, owl, dark-theme, theme, editor-theme, dark-syntax-theme</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+        <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Pro">
+            <ProductArchitecture>amd64</ProductArchitecture>
+        </InstallationTarget>
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+    <Assets>
+        <Asset Type="Microsoft.VisualStudio.VsPackage" d:Source="Project" d:ProjectName="%CurrentProject%" Path="|%CurrentProject%;PkgdefProjectOutputGroup|" />
+    </Assets>
+</PackageManifest>
