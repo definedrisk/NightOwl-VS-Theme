@@ -9880,5 +9880,15 @@
 			<Background Type="CT_RAW" Source="FF007ACC" />
 		</Color>
 	</Category>
+	<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}">
+		<Color Name="ReSharper Debugger DataTip">
+			<Background Type="CT_RAW" Source="FF03467C" />
+			<Foreground Type="CT_RAW" Source="FFC0C0C0" />
+		</Color>
+		<Color Name="ReSharper Parameter Name Hint">
+			<Background Type="CT_RAW" Source="FF03467C" />
+			<Foreground Type="CT_RAW" Source="FFC0C0C0" />
+		</Color>
+	</Category>
 	</Theme>
 </Themes>

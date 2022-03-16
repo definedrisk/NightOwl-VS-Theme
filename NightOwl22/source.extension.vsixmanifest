@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="NightOwl22.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0.1" Language="en-US" Publisher="Defined-Risk" />
+        <Identity Id="NightOwl22.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0.2" Language="en-US" Publisher="Defined-Risk" />
         <DisplayName>22hr Owl - The 24hr Owl Theme for VS 2022</DisplayName>
         <Description xml:space="preserve">Visual Studio 2022 port of Night Owl VS Code Theme (Sarah Drasner) forked from Kai Oswald 0.2.1 with increase contrast such that it can be used day and night.</Description>
         <MoreInfo>https://github.com/definedrisk/NightOwl-VS-Theme</MoreInfo>
