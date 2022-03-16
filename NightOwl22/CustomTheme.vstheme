@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="NightOwl22" GUID="{4ad24849-47ae-4eb3-897b-bed9223d015d}">
+  <Theme Name="NightOwl22" GUID="{4ad24849-47ae-4eb3-897b-bed9223d015d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
 	<Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
 		<Color Name="Body">
 			<Background Type="CT_RAW" Source="FF011627" />
@@ -2364,6 +2364,14 @@
 		<Color Name="MySqlKeyword">
 			<Background Type="CT_INVALID" Source="00000000" />
 			<Foreground Type="CT_INVALID" Source="00000000" />
+		</Color>
+		<Color Name="ReSharper Debugger DataTip">
+			<Background Type="CT_RAW" Source="FF03467C" />
+			<Foreground Type="CT_RAW" Source="FFC0C0C0" />
+		</Color>
+		<Color Name="ReSharper Parameter Name Hint">
+			<Background Type="CT_RAW" Source="FF03467C" />
+			<Foreground Type="CT_RAW" Source="FFC0C0C0" />
 		</Color>
 	</Category>
 	<Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
@@ -9878,16 +9886,6 @@
 		</Color>
 		<Color Name="WindowButtonHoverGlyph">
 			<Background Type="CT_RAW" Source="FF007ACC" />
-		</Color>
-	</Category>
-	<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}">
-		<Color Name="ReSharper Debugger DataTip">
-			<Background Type="CT_RAW" Source="FF03467C" />
-			<Foreground Type="CT_RAW" Source="FFC0C0C0" />
-		</Color>
-		<Color Name="ReSharper Parameter Name Hint">
-			<Background Type="CT_RAW" Source="FF03467C" />
-			<Foreground Type="CT_RAW" Source="FFC0C0C0" />
 		</Color>
 	</Category>
 	</Theme>
