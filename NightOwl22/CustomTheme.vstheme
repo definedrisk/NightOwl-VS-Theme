@@ -2672,6 +2672,10 @@
 		</Color>
 	</Category>
 	<Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
+		<Color Name="Container">
+			<Background Type="CT_RAW" Source="FF011c32" />
+			<Foreground Type="CT_RAW" Source="FFF1F1F1" />
+		</Color>
 		<Color Name="Page">
 			<Background Type="CT_RAW" Source="FF011627" />
 			<Foreground Type="CT_RAW" Source="FFE0F6FF" />
@@ -6748,7 +6752,7 @@
 			<Foreground Type="CT_RAW" Source="FF5D96AC" />
 		</Color>
 		<Color Name="WizardBackgroundLowerRegion">
-			<Background Type="CT_RAW" Source="FF252526" />
+			<Background Type="CT_RAW" Source="FF011627" />
 		</Color>
 	</Category>
 	<Category Name="NotificationBubble" GUID="{800c5171-6625-4a74-b3e2-a6cd0b4698d4}">
@@ -9805,7 +9809,7 @@
 			<Foreground Type="CT_RAW" Source="FFFFFFFF" />
 		</Color>
 		<Color Name="CategoryTab">
-			<Background Type="CT_RAW" Source="FF252526" />
+			<Background Type="CT_RAW" Source="FF011627" />
 			<Foreground Type="CT_RAW" Source="FFF1F1F1" />
 		</Color>
 		<Color Name="MouseOverCategoryTab">
@@ -9836,15 +9840,15 @@
 			<Background Type="CT_RAW" Source="FF3399FF" />
 		</Color>
 		<Color Name="EditorContent">
-			<Background Type="CT_RAW" Source="FF252526" />
+			<Background Type="CT_RAW" Source="FF011627" />
 			<Foreground Type="CT_RAW" Source="FFF1F1F1" />
 		</Color>
 		<Color Name="CheckBoxMouseOver">
-			<Background Type="CT_RAW" Source="FF252526" />
+			<Background Type="CT_RAW" Source="FF011627" />
 			<Foreground Type="CT_RAW" Source="FFF1F1F1" />
 		</Color>
 		<Color Name="CheckBox">
-			<Background Type="CT_RAW" Source="FF252526" />
+			<Background Type="CT_RAW" Source="FF011627" />
 			<Foreground Type="CT_RAW" Source="FF999999" />
 		</Color>
 	</Category>
@@ -9857,7 +9861,7 @@
 			<Background Type="CT_RAW" Source="FF007ACC" />
 		</Color>
 		<Color Name="WindowPanel">
-			<Background Type="CT_RAW" Source="FF252526" />
+			<Background Type="CT_RAW" Source="FF011627" />
 			<Foreground Type="CT_RAW" Source="FFF1F1F1" />
 		</Color>
 		<Color Name="WindowButton">
